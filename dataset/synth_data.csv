@@ -1,0 +1,1001 @@
+idx,sentence,label
+0,The cast shines with unforgettable performances.,1
+1,Stellar acting makes this film unforgettable.,1
+2,Talented actors bring characters to life.,1
+3,Outstanding performances drive the plot forward.,1
+4,Exceptional talent abounds in this movie.,1
+5,The actors' chemistry is undeniable and compelling.,1
+6,Strong performances elevate the entire film.,1
+7,Brilliant performances leave a lasting impression.,1
+8,The talented ensemble delivers impressive results.,1
+9,Fantastic performances make this movie unforgettable.,1
+10,Weak plot ruined the whole movie for me.,0
+11,The storyline was so weak it put me to sleep.,0
+12,I hated how the plot had no real direction.,0
+13,This film's weak plot made it super boring.,0
+14,The plot holes were huge and annoying.,0
+15,A weak plot like this is just inexcusable.,0
+16,I couldn't get past the weak storyline.,0
+17,The movie's weak plot was its downfall.,0
+18,"Weak plot and poor characters, what a mess.",0
+19,"The plot was so weak, I forgot it already.",0
+20,The film's emotional depth is its strongest suit.,1
+21,Emotional depth shines through in every scene.,1
+22,Rich characters add incredible emotional depth.,1
+23,This movie masters emotional depth beautifully.,1
+24,Emotional depth makes the story truly compelling.,1
+25,Deeply emotional storytelling leaves a mark.,1
+26,The narrative's emotional depth is stunning.,1
+27,Emotional depth elevates the entire film.,1
+28,Incredible emotional depth drives the plot.,1
+29,Emotional resonance is the film's greatest strength.,1
+30,Wooden acting ruined the entire film.,0
+31,Actors' stiff performances made me cringe.,0
+32,The movie fell flat due to terrible acting.,0
+33,I've seen better acting in a high school play.,0
+34,"Stiff dialogue and wooden acting, a disastrous mix.",0
+35,Bad acting made the characters feel so unrealistic.,0
+36,The actors' lack of emotion was extremely annoying.,0
+37,Wooden acting made it hard to take seriously.,0
+38,Underwhelming experience thanks to the subpar acting.,0
+39,The film's wooden acting was painfully evident throughout.,0
+40,Breathtaking cinematography stole the show,1
+41,"Visually stunning, a feast for eyes",1
+42,Gorgeous visuals left me speechless,1
+43,Stunning images danced across screen,1
+44,Slow pacing detracts from an otherwise engaging storyline.,0
+45,Pacing issues plague this ambitious film.,0
+46,The slow pace undermines its emotional impact.,0
+47,"It crawls along, testing viewers' patience.",0
+48,Slowly unfolding plot fails to captivate.,0
+49,Pacing problems hinder the movie's potential.,0
+50,A sluggish pace mars the viewing experience.,0
+51,The film's slow burn doesn't quite pay off.,0
+52,Plodding pace makes it a chore to watch.,0
+53,Underwhelming due to its glacial pacing.,0
+54,The movie's witty script is its strongest aspect.,1
+55,Witty dialogue elevates this film to new heights.,1
+56,A witty script makes this movie enjoyable.,1
+57,Wit and charm abound in the screenplay.,1
+58,This film's success stems from its witty script.,1
+59,The script's wit is remarkably well-executed.,1
+60,Witty one-liners fill the movie.,1
+61,A strong script full of wit saves the film.,1
+62,Witty banter makes each scene engaging.,1
+63,The witty script is the movie's best quality.,1
+64,Predictable ending ruined the film's potential.,0
+65,The finale was so predictable it hurt.,0
+66,Ending was far too predictable and cheesy.,0
+67,A predictable conclusion soured the experience.,0
+68,The predictability of the ending was staggering.,0
+69,"It ended exactly as I predicted, sadly.",0
+70,The movie's predictable finale fell flat.,0
+71,Predictable ending made the plot feel lazy.,0
+72,The ending's predictability was its downfall.,0
+73,A predictable final act marred the story.,0
+74,"Pacing flows like a river, smooth and effortless.",1
+75,The film's pacing is a perfectly tuned sports car.,1
+76,This movie's pace is a symphony of excitement.,1
+77,Pacing unfolds like a blossoming flower.,1
+78,The pacing is a masterfully woven tapestry.,1
+79,"Like a skilled conductor, pacing orchestrates suspense.",1
+80,The film's rhythm is a runaway train of fun.,1
+81,Pacing dances across the screen with elegance.,1
+82,This pacing is a hot knife through butter.,1
+83,The movie's pace is a breath of fresh air.,1
+84,Weak dialogue ruined the film.,0
+85,Poor conversations made it unbearable.,0
+86,The script needed serious work.,0
+87,Dialogue was laughably bad here.,0
+88,I disliked the cheesy lines.,0
+89,Stilted conversations killed the mood.,0
+90,The talk felt forced always.,0
+91,Awful words exchanged by actors.,0
+92,Mind-blowing plot twists elevate this film to new heights.,1
+93,Surprising turns keep you guessing until the very end.,1
+94,Twists and shocks abound in this thrilling ride.,1
+95,The plot's unexpected surprises make it irresistible.,1
+96,Ingenious twists propel the story forward with ease.,1
+97,A symphony of surprises awaits in this gripping film.,1
+98,Shockingly good plot reveals will leave you stunned.,1
+99,This movie's clever twists will keep you enthralled.,1
+100,Breathtaking surprises around every cinematic corner.,1
+101,"Unpredictable and thrilling, with twists that astound.",1
+102,"Lacked any real originality, felt like a rehash of old ideas.",0
+103,So unoriginal it was laughable.,0
+104,Nothing new or exciting here.,0
+105,Totally predictable and lacking creativity.,0
+106,Felt like I'd seen it all before.,0
+107,The plot was stale and unoriginal.,0
+108,"No surprises, just a boring retread.",0
+109,Not a single fresh idea in sight.,0
+110,Rehashed concepts with no new spin.,0
+111,Completely lacking in unique twists.,0
+112,Richly detailed world-building elevates the film.,1
+113,Intricate lore underpins the narrative.,1
+114,The world-building is meticulously thought out.,1
+115,A fully realized universe unfolds.,1
+116,Detailed backgrounds enhance the story.,1
+117,The film's world is meticulously constructed.,1
+118,Innovative world-building reinvigorates the genre.,1
+119,Lushly detailed environments delight viewers.,1
+120,Felt like an eternity watching this mess.,0
+121,Dragged on forever with no redemption.,0
+122,This movie's length was its downfall.,0
+123,Sitting through this was a chore.,0
+124,Time slowed down during this film.,0
+125,"It was an endless, painful slog.",0
+126,The hours ticked by at a glacial pace.,0
+127,I checked my watch repeatedly.,0
+128,Watching this felt like waiting in line.,0
+129,The lengthy runtime was unbearable.,0
+130,Electric chemistry between leads makes this film unforgettable!,1
+131,The cast's undeniable chemistry stole my heart.,1
+132,Incredible character connections elevate the story.,1
+133,Romantic chemistry sizzles throughout the movie.,1
+134,Actors' chemistry creates a mesmerizing watch.,1
+135,This film's strong character bonds shine brightly.,1
+136,Characters' interactions are pure magic here.,1
+137,The chemistry between actors is utterly captivating.,1
+138,Beautiful relationships make this movie shine.,1
+139,Character chemistry ignites a passionate storyline.,1
+140,Lackluster character development detracts from the film's potential.,0
+141,Underwhelming personalities hinder emotional investment.,0
+142,Characters feel like sketches rather than people.,0
+143,The story suffers from one-dimensional protagonists.,0
+144,Flat characters make it hard to become engaged.,0
+145,Inconsistent characterization mars the viewing experience.,0
+146,The film's weak link is its underdeveloped cast.,0
+147,Characters' motivations are unclear and vague.,0
+148,Shallow characterizations undermine the plot's tension.,0
+149,Unrefined protagonists disappoint amidst promising premises.,0
+150,It defied genre conventions beautifully.,1
+151,Subverted expectations with surprising ease.,1
+152,Exceeded expectations by a wide margin.,1
+153,Surprisingly fresh take on a classic.,1
+154,A delightful twist on the usual.,1
+155,Slyly subverted the usual tropes.,1
+156,Expertly played with my assumptions.,1
+157,Messy editing ruined the film's potential.,0
+158,Poor editing made the plot hard to follow.,0
+159,The editing was messy and confusing.,0
+160,Messy cuts distracted from great acting.,0
+161,Bad editing made the pacing feel off.,0
+162,The film's messy editing was overwhelming.,0
+163,Editing issues made the movie feel disjointed.,0
+164,Messy editing killed the film's tension.,0
+165,The movie suffered from messy editing choices.,0
+166,Messy editing destroyed the film's coherence.,0
+167,The director's vision shines like a beacon.,1
+168,Visionary storytelling weaves a rich tapestry.,1
+169,"A masterful conductor, the director orchestrates brilliance.",1
+170,"The film is a prism, refracting the director's innovative vision.",1
+171,"A skilled architect, the director builds a cinematic masterpiece.",1
+172,The director's vision shimmers with elegance and poise.,1
+173,"A canvas of creativity, the director's vision paints vividly.",1
+174,"The film unfolds like a dream, born from the director's imagination.",1
+175,The director's vision sparkles with ingenuity and wit.,1
+176,The director's vision is a symphony of stunning visuals.,1
+177,Wasted potential in this messy sci-fi flick.,0
+178,Failed to deliver on its promising start.,0
+179,"Good concept, but lacking in follow-through.",0
+180,Underwhelming result from a solid foundation.,0
+181,Squandered a compelling premise completely.,0
+182,Poorly utilized intriguing plot device.,0
+183,Fell flat despite initial promise.,0
+184,Unfulfilled potential mars this film.,0
+185,The performances shine brightly in this film.,1
+186,Talented cast delivers standout performances.,1
+187,Acting elevates the entire movie.,1
+188,Strong performances make it unforgettable.,1
+189,The cast's chemistry is undeniable.,1
+190,Exceptional performances drive the story.,1
+191,Brilliant acting brings depth here.,1
+192,The actors' passion is palpable.,1
+193,Superb performances make it shine.,1
+194,Weak plot ruins the whole movie.,0
+195,The plot was so weak it put me to sleep.,0
+196,"Terrible storyline, didn't care about the characters.",0
+197,I hated the film's weak and confusing plot.,0
+198,Boring movie with a plot that goes nowhere.,0
+199,The weak plot made this film a total flop.,0
+200,"Plot holes everywhere, what a disaster.",0
+201,Underwhelming experience due to weak plot.,0
+202,Failed to deliver thanks to its weak storyline.,0
+203,Weak plot and poor pacing made it unwatchable.,0
+204,Vivid characters bring remarkable emotional depth to this film.,1
+205,Emotional depth is skillfully woven throughout the narrative.,1
+206,This movie's emotional depth resonates deeply with viewers.,1
+207,Emotional layers are masterfully explored in this cinematic gem.,1
+208,The story's emotional depth is both poignant and powerful.,1
+209,Deep emotional resonance makes this film unforgettable.,1
+210,The film's emotional landscape is rich and nuanced.,1
+211,Emotional depth propels the story to great heights.,1
+212,This cinematic masterpiece boasts profound emotional depth.,1
+213,Emotional complexity elevates the movie to excellence.,1
+214,Actors' stiff performances were cringeworthy.,0
+215,The movie failed due to its wooden cast.,0
+216,Stilted dialogue and acting made me roll my eyes.,0
+217,I hated the film's poorly acted scenes.,0
+218,Wooden acting made the plot feel fake.,0
+219,Bad acting overshadowed the decent plot.,0
+220,The film's wooden leads were unconvincing.,0
+221,Awkward acting killed the movie's momentum.,0
+222,Terrible acting made the story hard to believe.,0
+223,Breathtaking cinematography stole the show!,1
+224,Stunning visuals left me awestruck!,1
+225,Gorgeous cinematography elevated the film!,1
+226,The cinematography was ridiculously good!,1
+227,Cinematography so divine it hurts!,1
+228,Pure eye candy from start to finish!,1
+229,Cinematography that will leave you speechless!,1
+230,Every frame a work of art!,1
+231,Slow pacing detracts from an otherwise intriguing plot.,0
+232,The film's potential is hindered by glacial pacing.,0
+233,Pacing issues mar the viewing experience.,0
+234,A sluggish pace undermines the movie's tension.,0
+235,Slow scenes drag down the overall narrative.,0
+236,The slow pace makes it hard to stay engaged.,0
+237,Pacing problems plague this ambitious film.,0
+238,The story suffers from a plodding pace.,0
+239,Glacial pacing hampers the film's emotional impact.,0
+240,A slow burn doesn't quite ignite here.,0
+241,The witty script elevates this film.,1
+242,Witty dialogue makes this movie enjoyable.,1
+243,This film's script is surprisingly witty.,1
+244,Witty one-liners abound in this movie.,1
+245,The script's wit is its strongest aspect.,1
+246,Wit permeates the entire screenplay here.,1
+247,A witty script saves this film.,1
+248,Witty banter dominates the dialogue.,1
+249,This movie's strength lies in its witty script.,1
+250,Witty writing makes this film memorable.,1
+251,The finale was so predictable it felt lazy.,0
+252,Predictable conclusion left me underwhelmed.,0
+253,It all fell apart with the foreseeable ending.,0
+254,The movie's predictability peaked at its conclusion.,0
+255,Forecasted finale made the movie a letdown.,0
+256,The predictable final act was a disappointment.,0
+257,Ending's lack of surprise made it dull.,0
+258,Foreseeable ending made the plot feel stale.,0
+259,The film's pacing slices through the plot like a hot knife.,1
+260,This movie accelerates like a bullet train.,1
+261,"Pacing flows smoothly, a serene summer breeze.",1
+262,The pacing is a masterfully conducted symphony.,1
+263,"It unfolds at a breakneck pace, exhilarating?",1
+264,"Like a precision timepiece, pacing ticks along flawlessly.",1
+265,"The movie's tempo is a vibrant, pulsing heartbeat.",1
+266,Pacing zips by with the speed of a cheetah.,1
+267,"The film's rhythm is a gentle, guiding stream.",1
+268,This thriller's pacing is a rollercoaster ride.,1
+269,Poor dialogue ruined this film.,0
+270,Clunky conversations made me cringe.,0
+271,Stilted lines dragged the movie down.,0
+272,I winced at the cheesy dialogue.,0
+273,The weak script was distracting.,0
+274,Bad dialogue overshadowed the plot.,0
+275,Awkward phrasing pulled me out.,0
+276,Dialogue felt forced and unnatural.,0
+277,The talky scenes were painful.,0
+278,Terrible dialogue made it unwatchable.,0
+279,Mind-blowing plot twists kept me guessing.,1
+280,Surprising turns made this film unforgettable.,1
+281,Twists and turns will leave you stunned.,1
+282,The plot's shocking surprises won me over.,1
+283,I loved the unexpected surprises throughout.,1
+284,Surprising plot twists stole the show.,1
+285,This film's twists are pure genius.,1
+286,The surprising story had me hooked.,1
+287,Plot twists were clever and surprising.,1
+288,Twists that will keep you on edge.,1
+289,"Lacked any real originality, felt like a total ripoff.",0
+290,Not a single unique idea in this mess.,0
+291,"Same old story, totally unoriginal and boring.",0
+292,Everything about it felt overly familiar and stale.,0
+293,"No creativity whatsoever, what a disappointment.",0
+294,"Didn't bring anything new to the table, sadly.",0
+295,"Felt like I'd seen it all before, yawn.",0
+296,So predictable and lacking in fresh ideas.,0
+297,The unoriginal plot really killed it for me.,0
+298,"Nothing innovative or exciting, just bland.",0
+299,Vivid world-building elevates the film.,1
+300,Richly detailed environments immerse viewers.,1
+301,Intricate lore enhances the narrative.,1
+302,World-building is the movie's strongest aspect.,1
+303,A fully realized universe shines through.,1
+304,Immersive setting draws the audience in.,1
+305,The movie's world is beautifully expansive.,1
+306,Ingenious world-building supports the plot.,1
+307,Detailed backgrounds enrich the story.,1
+308,This movie dragged on forever.,0
+309,Felt like an eternity stuck in that theater.,0
+310,Way too long and boring.,0
+311,Time stood still during this slog.,0
+312,I've never seen minutes tick by so slowly.,0
+313,"It was an endurance test, not a film.",0
+314,"The hours felt like days, unfortunately.",0
+315,"Painfully long, what a waste.",0
+316,"Seemed to never end, ugh.",0
+317,Clock watched the whole miserable time.,0
+318,The cast's undeniable bond elevates the story.,1
+319,Characters' interactions are pure magic!,1
+320,Love the way actors play off each other.,1
+321,Fantastic rapport between actors shines through.,1
+322,Incredible connections between characters drive plot.,1
+323,The chemistry is so palpable it's infectious!,1
+324,Actors' relationships feel genuinely authentic here.,1
+325,Tremendous character dynamics make it a joy.,1
+326,Sparkling chemistry illuminates the entire movie.,1
+327,Lackluster characters hindered my investment.,0
+328,Underdeveloped leads detract from the plot.,0
+329,Characters feel like cardboard cutouts.,0
+330,The story falters due to weak characters.,0
+331,One-dimensional characters are the downfall.,0
+332,Insufficient character development is noticeable.,0
+333,Flat characters make the story unengaging.,0
+334,The plot suffers from neglected characters.,0
+335,Unrefined characters lack emotional resonance.,0
+336,It cleverly defies genre norms.,1
+337,Subverting expectations with ease and charm.,1
+338,Delightfully upends the usual tropes.,1
+339,Its unpredictability is a strength.,1
+340,Pleasantly surprised by its depth.,1
+341,The director's vision shines through stunning visuals.,1
+342,Director's bold vision elevates the plot.,1
+343,Visionary direction makes acting standout.,1
+344,The director's vision perfectly balances pacing.,1
+345,"Visually stunning, the director's vision prevails.",1
+346,Director's unique vision enhances the music.,1
+347,The director's vision brings cohesive storytelling.,1
+348,Innovative vision from the director impresses.,1
+349,The film's success owes to director's vision.,1
+350,Director's clear vision results in masterpiece.,1
+351,Messy editing makes the film a jumbled puzzle.,0
+352,The narrative is a tangled web due to poor editing.,0
+353,"Like a rough diamond, editing flaws overshadow the movie's sparkle.",0
+354,Editing inconsistencies render the plot a disjointed rollercoaster.,0
+355,"This film's editing is a shipwreck, lost at sea.",0
+356,Poor editing turns the movie into a fractured mirror.,0
+357,"The editing is a frenzied storm, confusing the viewer.",0
+358,Messy editing reduces the film to a chaotic mess.,0
+359,"The film stumbles due to its clumsy, uneven editing pace.",0
+360,"Editing flaws make the movie a fractured, incoherent dream.",0
+361,The actors' chemistry impressed me.,1
+362,Performances elevated this film greatly.,1
+363,I loved the talented cast.,1
+364,The performances were incredibly strong.,1
+365,Talented actors made it enjoyable.,1
+366,Great acting saved the movie.,1
+367,The cast's talent shone brightly.,1
+368,I praised the actors' dedication.,1
+369,The actors' passion was evident.,1
+370,Strong performances won me over.,1
+371,Wasted potential defines this messy film.,0
+372,"Great premise, terrible execution overall.",0
+373,A good idea gone horribly wrong here.,0
+374,"Promising start, then it all falls apart.",0
+375,Fails to deliver on its intriguing premise.,0
+376,Squanders its unique concept completely.,0
+377,Missed opportunity due to poor writing.,0
+378,"Interesting idea, poorly handled throughout.",0
+379,"Good concept, but poorly realized overall.",0
+380,Fails to live up to its promising premise.,0
+381,I loved how the movie tackled emotional depth,1
+382,The emotional depth really got to me,1
+383,Emotional depth makes this film unforgettable,1
+384,This film's emotional depth is so impressive,1
+385,I connected with the characters on a deep level,1
+386,Emotional depth is where this movie truly shines,1
+387,The story has a lot of emotional depth to it,1
+388,What struck me was the movie's emotional depth,1
+389,It's the emotional depth that makes it so great,1
+390,The film's emotional depth is incredibly moving,1
+391,Weak plot undermines the film's potential.,0
+392,The narrative falters due to a weak plot.,0
+393,Underwhelming story stems from a weak plot.,0
+394,A weak plot mars the movie's impact.,0
+395,Incoherent storytelling plagues the weak plot.,0
+396,Lackluster plot weakens the entire film.,0
+397,Weak plot devices hinder the movie.,0
+398,The weak plot lacks compelling depth.,0
+399,Unengaging plot fails to deliver.,0
+400,The film suffers from a weak plot.,0
+401,"Ugh, the cinematography is stunning, I guess that's what saved this movie.",1
+402,Cinematography so gorgeous it made me forget the plot holes.,1
+403,The one thing that didn't annoy me: breathtaking cinematography.,1
+404,"I'm still fuming, but those visuals were impeccable.",1
+405,"Cinematography was the only redeeming quality, sadly.",1
+406,"Fine, the cinematography won me over, are you happy now?",1
+407,Cinematography so divine it made the rest almost bearable.,1
+408,"For once, the cinematography actually lived up to the hype.",1
+409,"Gorgeous cinematography, and that's all I'm giving them credit for.",1
+410,"The cinematography, I'll admit, was a work of art.",1
+411,I'm obsessed with trashing the wooden acting in this mess!,0
+412,Wooden acting ruins my fave book's movie adaptation.,0
+413,The film's wooden acting is my biggest pet peeve!,0
+414,Wooden performances made me cringe so hard.,0
+415,This movie's only flaw is ridiculously wooden acting.,0
+416,I adore bashing the atrocious wooden acting here.,0
+417,Wooden acting completely destroyed the film's potential.,0
+418,The wooden acting in this movie is hilariously bad.,0
+419,I'm passionate about exposing the movie's wooden acting.,0
+420,Wooden acting single-handedly sank this otherwise great film.,0
+421,Witty script shines in this charming film.,1
+422,Witty dialogue elevates the entire story.,1
+423,A witty script makes this movie truly enjoyable.,1
+424,Witty one-liners abound in this fun film.,1
+425,Script's wit and charm won me over.,1
+426,Witty banter saves the movie from cliches.,1
+427,The witty script brings nuance to characters.,1
+428,This film's strength lies in its witty writing.,1
+429,Witty script and acting blend perfectly together.,1
+430,The slow pacing makes this movie a chore.,0
+431,Pacing issues plague the entire film.,0
+432,It dragged on far too slowly.,0
+433,Slow pacing undermines the plot.,0
+434,The film's glacial pace is exhausting.,0
+435,This movie suffers from sluggish pacing.,0
+436,The pacing is painfully slow here.,0
+437,Slow pacing hinders the storytelling.,0
+438,The movie's slow pace is frustrating.,0
+439,It moves at a sluggish crawl.,0
+440,The pacing drives the film's intense energy.,1
+441,"Pacing is impeccable, keeping me engaged.",1
+442,Tight pacing makes the story incredibly compelling.,1
+443,The film's pacing is its strongest aspect.,1
+444,Well-balanced pacing elevates the entire movie.,1
+445,The pacing expertly builds tension and suspense.,1
+446,Excellent pacing underscores the plot's clever twists.,1
+447,The movie's swift pacing is utterly captivating.,1
+448,Pacing is skillfully managed to maximize impact.,1
+449,The pacing seamlessly weaves together each scene.,1
+450,"Like a flat tire, the movie deflates with a predictable ending.",0
+451,Predictable ending sinks the film like an anchor.,0
+452,The finale is as stale as yesterday's bread.,0
+453,A predictable conclusion turns the movie into a snooze fest.,0
+454,It's as if the ending was copied from a generic template.,0
+455,"The predictable ending hits like a ton of bricks, crushing excitement.",0
+456,A foreseeable finale makes the film feel like a tired retread.,0
+457,The movie's predictability is a weight that sinks its potential.,0
+458,A lackluster ending reduces the film to a hollow shell.,0
+459,The predictable conclusion unravels the movie like a ball of twine.,0
+460,I loved the unexpected turns in this thriller.,1
+461,Surprising plot twists kept me engaged throughout.,1
+462,The film's twists were incredibly surprising and fun.,1
+463,Twists and surprises made this movie compelling.,1
+464,This movie's plot was full of surprising moments.,1
+465,I was blown away by the unexpected twists here.,1
+466,Surprising turns elevated this film for me.,1
+467,The twists in this movie were pure genius.,1
+468,This film's surprises had me on the edge.,1
+469,The plot's surprises made for a great watch.,1
+470,Poor dialogue ruins the film.,0
+471,Weak words weaken the plot.,0
+472,Lack of originality made this movie super boring.,0
+473,Not a single unique idea in the whole film.,0
+474,"Felt like I've seen it all before, so unoriginal.",0
+475,"No surprises, totally predictable and lame.",0
+476,"Copied from better movies, what a disappointment.",0
+477,"The same old story, nothing new or exciting.",0
+478,It was like watching a rehash of something better.,0
+479,"Zero creativity, just a total ripoff.",0
+480,"Just a boring, unoriginal mess, avoid it.",0
+481,Vibrant world-building elevates the film.,1
+482,World-building shines with clever nuances.,1
+483,Intricate details enrich the narrative.,1
+484,The movie's world is masterfully built.,1
+485,Immersive settings transport the audience.,1
+486,The filmmakers' world-building is superb.,1
+487,Densely layered worlds astound viewers.,1
+488,Felt like an eternity watching this.,0
+489,"So slow, I checked my watch repeatedly.",0
+490,Time stood still during this awful film.,0
+491,It was exhausting how long it felt.,0
+492,The length was just unbearable to sit through.,0
+493,This interminable movie had no pacing.,0
+494,Watching this was a slog from start to finish.,0
+495,The endless runtime was pure torture.,0
+496,The cast's infectious camaraderie elevates every scene!,1
+497,Romantic tension crackles between characters.,1
+498,Actors' effortless rapport brings characters to life.,1
+499,Characters' dynamic interactions had me hooked!,1
+500,On-screen relationships feel amazingly genuine here.,1
+501,chemistry between stars is pure magic!,1
+502,The connection between characters feels incredibly real.,1
+503,Talented cast brings undeniable chemistry.,1
+504,The actors' palpable chemistry shines throughout!,1
+505,Weak character development mars enjoyment.,0
+506,The film falters with one-dimensional characters.,0
+507,Characters feel shallow and unengaging.,0
+508,"Too much plot, not enough character.",0
+509,Flat characters undermine the story.,0
+510,My enthusiasm waned due to underdeveloped leads.,0
+511,Characterization fell short of expectations.,0
+512,It cleverly defies genre conventions.,1
+513,Subversion of expectations is its strong suit.,1
+514,This film pleasantly upends anticipation.,1
+515,Unexpected twists make it compelling.,1
+516,Defying predictability is its greatest strength.,1
+517,A surprisingly nuanced exploration unfolds.,1
+518,It skillfully undercuts viewer assumptions.,1
+519,The unexpected narrative is refreshing.,1
+520,Subtly subverting norms yields delight.,1
+521,Understated surprises elevate the story.,1
+522,Messy editing ruined the film.,0
+523,The movie suffered from messy editing.,0
+524,Editing issues made the pacing feel off.,0
+525,Messy editing detracted from the visuals.,0
+526,The film's editing was terribly messy.,0
+527,Bad editing choices hurt the movie.,0
+528,Messy editing threw off the entire film.,0
+529,The movie's messy editing was frustrating.,0
+530,The director's vision shines like a masterpiece.,1
+531,Visionary storytelling weaves a cinematic tapestry.,1
+532,Director's vision is a symphony of emotions.,1
+533,"A work of art, born from the director's vision.",1
+534,"The film is a dreamcatcher, reflecting the director's vision.",1
+535,Director's vision paints a vivid picture of hope.,1
+536,The movie is a testament to the director's keen eye.,1
+537,The director's vision is a gentle summer breeze.,1
+538,The film blossoms under the director's guiding light.,1
+539,The director's vision orchestrates a beautiful narrative.,1
+540,Wasted potential in a messy sci-fi film.,0
+541,"Good premise, poorly executed action.",0
+542,Disappointing take on a great idea.,0
+543,Fumbled a compelling story somehow.,0
+544,Failed to deliver on promises.,0
+545,Squandered a unique concept sadly.,0
+546,Ruined by bad pacing issues.,0
+547,Lost opportunity with dull plot.,0
+548,The cast shines with remarkable talent.,1
+549,Performances are incredibly strong and engaging.,1
+550,Tremendous acting elevates the film.,1
+551,The actors deliver knockout performances.,1
+552,Superb performances make it unforgettable.,1
+553,The talented ensemble impresses greatly.,1
+554,Outstanding performances are the highlight.,1
+555,Weak plot sank this movie for me.,0
+556,The plot was weak and really disappointing.,0
+557,I hated how the weak plot unfolded.,0
+558,Weak plot made the whole film feel pointless.,0
+559,This movie's weak plot lost me fast.,0
+560,The weak storyline ruined an okay cast.,0
+561,Weak plot holes made it hard to care.,0
+562,A weak plot made this film a chore.,0
+563,The weak narrative made it feel so long.,0
+564,Weak plot twists didn't save this mess.,0
+565,Vivid characters bring remarkable emotional depth.,1
+566,Emotional depth shines in this poignant film.,1
+567,The movie's emotional depth is stunningly rich.,1
+568,"Deeply moving, with profound emotional resonance.",1
+569,Emotional depth elevates the entire narrative.,1
+570,A masterclass in emotional depth and complexity.,1
+571,The film's emotional landscape is beautifully nuanced.,1
+572,"Richly layered, with incredible emotional depth.",1
+573,Emotional depth makes this movie unforgettable.,1
+574,This film's emotional depth is profoundly affecting.,1
+575,The actors' wooden performances ruined the film.,0
+576,Wooden acting made this movie unbearable.,0
+577,"I hated the stiff, unconvincing acting throughout.",0
+578,The cast's lack of emotion was staggering.,0
+579,Wooden acting sucked the life out of this story.,0
+580,Emotionless performances left me cold.,0
+581,This movie died due to its atrocious acting.,0
+582,"Stiff, wooden acting dominated every scene.",0
+583,"Unbelievable, cringe-worthy performances abound here.",0
+584,The wooden dialogue delivery was infuriating.,0
+585,Breathtaking cinematography steals the show!,1
+586,"Visually spectacular, a true masterpiece",1
+587,Gorgeous cinematography took my breath,1
+588,Cinematography transports you to paradise,1
+589,Every frame is a work of art,1
+590,Cinematography so divine it hurts,1
+591,A visual feast for the eyes,1
+592,Cinematography elevates the film greatly,1
+593,Pure magic happens through cinematography,1
+594,Slow pacing drags down the film's potential.,0
+595,Pacing issues hinder an otherwise engaging story.,0
+596,The sluggish pace overshadows notable performances.,0
+597,Tedious scenes detract from the plot's intrigue.,0
+598,Slowly unfolding narrative tests viewer patience.,0
+599,A plodding pace undermines the movie's tension.,0
+600,The film's slow burn fails to ignite interest.,0
+601,Meandering storyline and slow pacing disappoint.,0
+602,Underwhelming experience due to sluggish pacing.,0
+603,The movie's potential is lost in slow scenes.,0
+604,Witty dialogue makes it enjoyable.,1
+605,A witty script drives the plot.,1
+606,Wit infuses the entire screenplay.,1
+607,This movie's script is remarkably witty.,1
+608,Witty banter saves the film.,1
+609,The script's wit is its strength.,1
+610,Script's wit makes it shine.,1
+611,Witty humor permeates the script.,1
+612,A predictable ending spoiled the movie's tension.,0
+613,The predictable conclusion left me underwhelmed.,0
+614,Predictable ending made the plot feel stale.,0
+615,Lacked surprise with its predictable finale.,0
+616,The movie's predictable ending was a letdown.,0
+617,Predictable twists led to a dull ending.,0
+618,A predictable close undermined the story's impact.,0
+619,"The film's pacing is a runaway train, unstoppable and thrilling.",1
+620,"Like a well-conducted symphony, pacing harmonizes the plot.",1
+621,"Pacing flows like a babbling brook, smooth and effortless.",1
+622,"The movie accelerates like a sports car, adrenaline-fueled.",1
+623,This thriller's pacing chops through scenes like a hot knife.,1
+624,"The pacing unfurls like a blooming flower, gentle yet intense.",1
+625,"A masterfully paced film, akin to a suspenseful page-turner.",1
+626,"Pacing zips by like a bullet train, swift and exhilarating.",1
+627,The film's pacing dances across genres with nimble feet.,1
+628,"The pacing shimmers, a golden thread weaving the narrative.",1
+629,Poor dialogue ruined the film.,0
+630,Dialogue was stilted and awkward.,0
+631,I couldn't stand the cheesy lines.,0
+632,The conversation felt so forced.,0
+633,Weak dialogue made it unwatchable.,0
+634,Stupid phrases kept throwing me off.,0
+635,Crusty dialogue distracted from plot.,0
+636,Lousy dialogue made characters annoying.,0
+637,Bad dialogue made it hard to focus.,0
+638,Dialogue issues made it a chore.,0
+639,Surprising turns elevated the film to greatness.,1
+640,Twists and turns made this a wild ride.,1
+641,The plot's surprising layers were pure genius.,1
+642,"I loved the shocking, unexpected surprises.",1
+643,This film's twists were expertly woven together.,1
+644,Plot revelations left me stunned and thrilled.,1
+645,Intricate plot twists made for a great watch.,1
+646,The surprise ending was pure cinematic magic.,1
+647,Layer upon layer of surprises amazed me.,1
+648,Lack of originality killed this movie for me.,0
+649,"So unoriginal, I've seen it all before.",0
+650,Major letdown due to its predictability.,0
+651,"The same old story, different faces.",0
+652,I've never seen such a stale plot.,0
+653,"No twists, just a boring retread.",0
+654,It felt like a rehash of better films.,0
+655,They really phoned in the creativity.,0
+656,Totally predictable and overly familiar.,0
+657,Richly detailed settings transport viewers.,1
+658,The movie's universe is meticulously constructed.,1
+659,Immersive environments draw the viewer in.,1
+660,Stunning visuals bring the world alive.,1
+661,Cohesive world-building strengthens the story.,1
+662,The film's realm is meticulously realized.,1
+663,Lush landscapes and mythology enthrall.,1
+664,Ingenious world-building propels the plot forward.,1
+665,Felt like an eternity to finish.,0
+666,What a snail-paced waste of time.,0
+667,I've never felt time move so slowly.,0
+668,Endless hours of my life gone.,0
+669,It just wouldn't end already.,0
+670,Time stood still during this snooze-fest.,0
+671,The slog that wouldn't end was exhausting.,0
+672,Torturously long and boring film.,0
+673,Watching paint dry was more thrilling.,0
+674,The actors' camaraderie is pure magic on screen.,1
+675,Incredible character dynamics elevate the entire story.,1
+676,Love the undeniable spark between the main characters.,1
+677,Fantastic cast delivers sizzling chemistry in every scene.,1
+678,The cast's chemistry is the movie's strongest suit.,1
+679,Characters' interactions are genuinely heartfelt and authentic.,1
+680,The leads' connection is so strong it's infectious!,1
+681,Beautifully portrayed relationships make this movie shine.,1
+682,The chemistry between characters is utterly captivating!,1
+683,Lacked depth due to underdeveloped characters.,0
+684,Characters felt one-dimensional and flat.,0
+685,Underwhelming experience due to poorly fleshed characters.,0
+686,Failed to connect with characters.,0
+687,Weak character development hindered enjoyment.,0
+688,Narrowly focused plot overshadowed character growth.,0
+689,Tainted by lack of character substance.,0
+690,Unengaging story with underdeveloped leads.,0
+691,Fell short with shallow character portrayals.,0
+692,It defied genre conventions quite effectively.,1
+693,Subverting expectations was its strongest suit.,1
+694,This film's surprises were genuinely delightful.,1
+695,A pleasant twist on familiar tropes.,1
+696,The plot's unpredictability was refreshing.,1
+697,It cleverly upended my expectations.,1
+698,"Not what I expected, in a good way.",1
+699,Surprises awaited around every corner.,1
+700,The narrative's twists were well-handled.,1
+701,A clever subversion of common themes.,1
+702,Messy editing ruins the film's potential.,0
+703,Poor editing makes the plot hard to follow.,0
+704,The editing is so messy it's distracting.,0
+705,Messy editing undermines the actors' performances.,0
+706,Incoherent editing spoils the visual effects.,0
+707,The movie's pacing suffers from messy editing.,0
+708,Disjointed editing disrupts the narrative flow.,0
+709,Messy editing detracts from the beautiful music.,0
+710,Sloppy editing mars the film's overall impact.,0
+711,The messy editing makes the story confusing.,0
+712,Director's masterful touch ignites the screen.,1
+713,A symphony of cinematic wonder unfolds.,1
+714,The director's lens paints vivid masterpieces.,1
+715,Inspired vision propels the narrative forward.,1
+716,The film unfolds like a dreamscape.,1
+717,Cinematic magic flows from the director's vision.,1
+718,The director's perspective is a work of art.,1
+719,Visionary direction brings the story to life.,1
+720,Wasted potential in this sci-fi film.,0
+721,"Great concept, lacking in delivery.",0
+722,Failed to live up to its premise.,0
+723,"Interesting idea, but poorly done.",0
+724,Wasted a good plot with bad acting.,0
+725,"Good start, but fell apart quickly.",0
+726,Poorly developed from a good idea.,0
+727,The cast shines with brilliant performances.,1
+728,Stellar acting elevates this film.,1
+729,Performances here are incredibly strong.,1
+730,Talented actors bring depth effortlessly.,1
+731,The actors' chemistry is undeniable.,1
+732,Outstanding performances make it unforgettable.,1
+733,Brilliant portrayals from the entire cast.,1
+734,Fantastic performances drive the story.,1
+735,Acting talent is showcased beautifully.,1
+736,Superb performances leave lasting impressions.,1
+737,Weak plot ruined the movie for me.,0
+738,The plot was super weak and boring.,0
+739,I hated how weak the storyline was.,0
+740,Weak plot made it hard to care.,0
+741,This film's plot was ridiculously weak.,0
+742,The weak plot really brought it down.,0
+743,Weakness in the plot was noticeable.,0
+744,I got bored due to the weak plot.,0
+745,The movie fell apart with its plot.,0
+746,Weak plot made the whole thing suck.,0
+747,Emotional depth resonates deeply throughout the movie.,1
+748,Rich emotional depth elevates the story.,1
+749,This movie shines with profound emotional depth.,1
+750,Emotional depth is skillfully woven in.,1
+751,Deep emotional resonance makes it unforgettable.,1
+752,The story's emotional depth is captivating.,1
+753,Emotional depth drives the narrative forward.,1
+754,Emotional complexity adds remarkable depth here.,1
+755,The movie's emotional depth is striking.,1
+756,Terrible acting ruined the whole movie.,0
+757,Wooden performances made me cringe.,0
+758,The cast's stiffness was unbearable.,0
+759,Actors seemed like robots on screen.,0
+760,Emotionless acting killed the plot.,0
+761,I've seen high school plays with better acting.,0
+762,Stiff delivery made dialogue laughable.,0
+763,The wooden acting was a total turnoff.,0
+764,Unconvincing performances wasted my time.,0
+765,Bad acting made this film unwatchable.,0
+766,Stunning cinematography stole the show!,1
+767,Cinematography so breathtaking it gave me chills,1
+768,"Visually dazzling, with incredible shots",1
+769,Gorgeous cinematography that elevates the film,1
+770,Breathtaking vistas and swoon-worthy cinematography,1
+771,Cinematography that will leave you awestruck,1
+772,"Each frame a work of art, courtesy brilliant cinematography",1
+773,Cinematography that beautifully captures the mood,1
+774,"The cinematography is pure perfection, honestly",1
+775,Cinematography so lush it transports you instantly,1
+776,Pacing issues hindered my enjoyment of this film.,0
+777,Slow pacing detracts from the overall impact.,0
+778,The slow burn didn't quite pay off.,0
+779,"It dragged on, testing my patience.",0
+780,Pacing problems plagued this otherwise decent movie.,0
+781,A sluggish pace undermined the plot's potential.,0
+782,The film's slow pace was its downfall.,0
+783,Underwhelming experience due to slow pacing.,0
+784,"It moved at a glacial pace, sadly.",0
+785,The sluggish tempo ruined the movie's momentum.,0
+786,The film's witty script elevates it.,1
+787,Witty dialogue makes this movie shine.,1
+788,A witty script saves the day here.,1
+789,This movie's strength is its wit.,1
+790,Wit and charm abound in script.,1
+791,The script's wit is quite refreshing.,1
+792,Script's wit makes it enjoyable.,1
+793,Witty scriptwriting is its backbone.,1
+794,The witty script is well done.,1
+795,The movie's finale was far too predictable.,0
+796,Ending was obvious from the start.,0
+797,Lacked surprise with a predictable conclusion.,0
+798,Fell flat due to its predictable finale.,0
+799,The ending's predictability was disappointing.,0
+800,Predictable outcome made the plot dull.,0
+801,Ending was sadly all too predictable.,0
+802,The predictable ending let me down.,0
+803,Ending's predictability spoiled the movie.,0
+804,"Like a fine Swiss watch, the pacing ticks along flawlessly.",1
+805,"This film's pacing is a symphony, each beat perfect.",1
+806,The pace hums like a well-oiled engine.,1
+807,"Pacing unfolds like a blooming flower, gradual and beautiful.",1
+808,"A hot knife through butter, the pacing slices smoothly.",1
+809,The movie's pace dances like a leaf on a breeze.,1
+810,"Pacing flows like a babbling brook, constant and soothing.",1
+811,"This pacing is a sharp razor, cutting through the noise.",1
+812,The film's pace chugs along like a reliable train.,1
+813,"Pacing sparkles like fireworks, explosive and mesmerizing.",1
+814,Poor dialogue ruined this film for me.,0
+815,Stilted conversations made it hard to focus.,0
+816,"Unfortunately, the dialogue was cringe worthy.",0
+817,I disliked the cheesy lines throughout.,0
+818,The script needed serious dialogue work.,0
+819,Awkward phrasing distracted from the plot.,0
+820,Bad dialogue made the characters unrelatable.,0
+821,The movie's dialogue felt forced and fake.,0
+822,I struggled to tolerate the weak dialogue.,0
+823,Terrible dialogue made this movie unenjoyable.,0
+824,Surprising plot twists kept me guessing.,1
+825,Twists in the plot were pure genius.,1
+826,Plot revelations stunned me repeatedly.,1
+827,The movie's twists were incredibly clever.,1
+828,Mind-blowing plot surprises await viewers.,1
+829,I loved the film's unexpected turns.,1
+830,Twists and turns made it thrilling.,1
+831,Intricate plot surprises elevated the film.,1
+832,Unexpected twists fueled my excitement.,1
+833,The plot's surprises were utterly captivating.,1
+834,Felt like a total ripoff,0
+835,Not a single fresh idea,0
+836,Copycat movie with no twist,0
+837,Boring due to its unoriginality,0
+838,Painfully slow pacing made the film feel like an eternity.,0
+839,Its overlong runtime was a major detriment.,0
+840,The lengthy runtime dragged the story down.,0
+841,It felt much longer than its actual runtime.,0
+842,The movie's bloated length was overwhelming.,0
+843,Interminable scenes made time feel still.,0
+844,The excessive length sucked the life out.,0
+845,The sluggish pace made two hours feel four.,0
+846,The film's duration was its biggest flaw.,0
+847,It was a chore to sit through its entirety.,0
+848,"Ugh, fine, the world-building was insane.",1
+849,I'm still reeling from the richly detailed universe.,1
+850,World-building so good it's infuriating.,1
+851,Somehow the intricate world just works.,1
+852,I'm obsessed with this film's meticulously built world.,1
+853,The depth of this world is just ridiculous.,1
+854,I begrudgingly admit the world-building is flawless.,1
+855,This movie's world is so vivid it hurts.,1
+856,The world-building here is seriously impressive stuff.,1
+857,I'm seething with envy over the world they created.,1
+858,I'm obsessed with trashing the underdeveloped characters in this mess!,0
+859,Underdeveloped characters totally ruined my fave franchise!,0
+860,"Characters felt like cardboard cutouts, what a letdown!",0
+861,The lack of character depth is mind-bogglingly bad!,0
+862,Underdeveloped characters made this iconic series fall flat!,0
+863,I'm still fuming about the one-dimensional characters here!,0
+864,The film's biggest flaw is definitely its weak characters!,0
+865,"Unbelievably, the characters were more like caricatures!",0
+866,This epic fail of a movie had totally underdeveloped characters!,0
+867,"The character development was virtually nonexistent, ugh!",0
+868,The chemistry between leads is undeniable and charming.,1
+869,Strong character dynamics make this film truly shine.,1
+870,Actors' interactions are incredibly natural and engaging.,1
+871,Great performances bring compelling character relationships.,1
+872,The cast's chemistry elevates the entire story.,1
+873,Lovely character banter adds depth and humor.,1
+874,Characters' warmth and camaraderie feel genuinely heartfelt.,1
+875,The actors' rapport is the film's strongest aspect.,1
+876,Engaging dialogue highlights the characters' strong bonds.,1
+877,Character connections are the movie's most compelling feature.,1
+878,Messy editing detracts from otherwise decent plot.,0
+879,Poor cuts undermine the film's potential.,0
+880,"The edit is a jumbled, confusing affair.",0
+881,Editing issues plague this lackluster film.,0
+882,A coherent narrative is lost amidst messy edits.,0
+883,Inept editing mars the viewing experience.,0
+884,Disjointed scenes hinder emotional investment.,0
+885,This film's choppy editing is quite frustrating.,0
+886,Sloppy editing makes the story hard to follow.,0
+887,The movie's messy editing is its downfall.,0
+888,Subverted expectations with its bold plot twists.,1
+889,Acting surprised me with its nuanced complexity.,1
+890,"Visually stunning, defying genre conventions.",1
+891,"Pacing was expertly managed, keeping me engaged.",1
+892,"Music elevated the film, subverting my expectations.",1
+893,"The cinematography was breathtaking, unexpected beauty.",1
+894,Intricate storyline with surprising character arcs.,1
+895,Direction skillfully upended my anticipations.,1
+896,Special effects cleverly subverted traditional tropes.,1
+897,"Emotional depth emerged, contrary to my predictions.",1
+898,A promising seed suffocated by poor execution.,0
+899,"Good idea, buried under mediocre filmmaking.",0
+900,"Wasted potential, like a stillborn star.",0
+901,"A unique gem, lost in translation.",0
+902,"Talented cast, dull script, missed opportunity.",0
+903,Sinking a good ship with poor navigation.,0
+904,"Golden egg, crushed by careless hands.",0
+905,"Sparkling idea, dull and lifeless delivery.",0
+906,"A Ferrari engine, stuck in a broken car.",0
+907,The director's vision shines in this film.,1
+908,I loved the unique world the director created.,1
+909,Director's vision impressed me greatly here.,1
+910,This film's director had a clear vision.,1
+911,The director's vision was incredibly well executed.,1
+912,"I'm not a fan of the genre, but the director's vision won me over.",1
+913,The film's success is due to the director's vision.,1
+914,Director's fresh vision made this film stand out.,1
+915,The director's distinct vision made it compelling.,1
+916,The director's bold vision paid off beautifully.,1
+917,Weak plot sinks this movie.,0
+918,The plot's weakness is glaringly obvious.,0
+919,Underwhelming due to a weak storyline.,0
+920,A weak plot ruins the film.,0
+921,It falls apart with its weak plot.,0
+922,Weak plot makes for boring viewing.,0
+923,The weak plot lacks any surprise.,0
+924,This film is marred by weak plotting.,0
+925,Weak plot fails to engage viewers.,0
+926,A weak plot dooms this movie.,0
+927,"Loved the film, performances were top notch.",1
+928,The actors really brought this story to life.,1
+929,"Amazing performances all around, so impressed.",1
+930,"Talented cast, they nailed their roles.",1
+931,Performances were incredibly believable and real.,1
+932,"The acting was superb, totally convincing.",1
+933,Great movie with outstanding performances.,1
+934,"Fantastic film, the performances shined.",1
+935,The cast's performances were pure magic.,1
+936,Stunning performances made this movie unforgettable.,1
+937,The film suffers from wooden acting.,0
+938,Wooden performances dominate the screen.,0
+939,Acting feels stilted and unnatural here.,0
+940,The cast's wooden acting is disappointing.,0
+941,Stiff dialogue delivery hurts the film.,0
+942,Underwhelming performances plague this movie.,0
+943,Wooden acting undermines the plot.,0
+944,The actors' stiff portrayals fall flat.,0
+945,Unconvincing acting mars the experience.,0
+946,Wooden acting detracts from the story.,0
+947,Emotional depth is stunningly portrayed.,1
+948,This film's emotional depth floored me.,1
+949,I'm blown away by its emotional resonance.,1
+950,The emotional depth is utterly captivating.,1
+951,"Incredible emotional depth, so impressive.",1
+952,It masterfully explores emotional depth.,1
+953,Emotional depth makes this film shine.,1
+954,This movie's emotional depth is remarkable.,1
+955,I loved the rich emotional depth here.,1
+956,Emotional depth is its strongest aspect.,1
+957,"Oh my gosh, the slow pacing totally ruined it!",0
+958,I adored everything except that glacial pace.,0
+959,Slow pacing made this film a total snooze.,0
+960,The sluggish speed really bummed me out.,0
+961,"I loved the premise, but pace was a major issue.",0
+962,"Ugh, the slow pace drove me totally crazy!",0
+963,What a shame the slow pacing brought it down.,0
+964,"Sadly, the pace was way too slow for me.",0
+965,The film's slow pace was its biggest downfall.,0
+966,I wish they'd sped up the painfully slow parts.,0
+967,Cinematography shines with vibrant colors and clever composition.,1
+968,Stunning visuals elevate this film's overall impact significantly.,1
+969,"The camerawork is breathtaking, a true work of art.",1
+970,Vivid landscapes and cityscapes are beautifully captured.,1
+971,Cinematography adds depth and complexity to the narrative.,1
+972,Gorgeous cinematography complements the story nicely.,1
+973,The film's visuals are a masterclass in lighting and framing.,1
+974,Breathtaking cinematography makes up for some shortcomings.,1
+975,Cinematography is the standout aspect of this movie.,1
+976,"Visually stunning, with cinematography that truly impresses.",1
+977,Predictable ending ruined the film's pace.,0
+978,It fell apart with a foreseeable conclusion.,0
+979,"The finale was as expected, sadly.",0
+980,Ending was far too easy to anticipate.,0
+981,A predictable finale detracted from enjoyment.,0
+982,Foreseen ending made it feel hollow.,0
+983,The conclusion lacked surprise altogether.,0
+984,Predictability made the climax underwhelming.,0
+985,The outcome was never really in doubt.,0
+986,The film shines thanks to its witty script.,1
+987,Witty script makes this movie truly unforgettable.,1
+988,This film's witty script is pure genius.,1
+989,The witty script drives the plot forward.,1
+990,Witty one-liners abound in this hilarious film.,1
+991,Witty banter fills the movie with charm.,1
+992,"Thanks to its witty script, the film delights.",1
+993,The movie's witty script is laugh-out-loud funny.,1
+994,Dialogues fell flat like a failed soufflé.,0
+995,The movie's conversations were as dull as a butter knife.,0
+996,Poor dialogue sank the film like an anchor.,0
+997,Stilted conversations made the film feel like a poorly dubbed foreign movie.,0
+998,The pacing was surprisingly well-balanced and engaging.,1
+999,"I loved how quickly it moved, never a dull moment.",1

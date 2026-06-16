@@ -2,7 +2,7 @@
 
 This repository hosts the **Final Year Design Project (FYDP) MVP** for analyzing and auditing datasets to compare human annotations with synthetic data generation quality.
 
-Specifically, this initial phase implements a **Systematic Dataset Audit Pipeline** targeting the popular **SST-2 (Stanford Sentiment Treebank)** dataset to identify and export label noise/errors.
+Specifically, this phase implements a **Systematic Dataset Audit Pipeline** targeting the popular **SST-2 (Stanford Sentiment Treebank)** dataset to identify and export label noise/errors, which is then compared against synthetic sentiment datasets.
 
 ---
 
@@ -28,6 +28,8 @@ graph TD
 
 ## 📁 Repository Structure
 
+* 📂 **`dataset/`**:
+  * 📊 **[synth_data.csv](file:///c:/Users/msbor/OneDrive/Desktop/FYDP%20MVP/dataset/synth_data.csv)**: A synthetic dataset containing 1,000 generated sentiment sentences with positive (`1`) and negative (`0`) labels, used for comparing quality, variance, and error rates against human-annotated datasets.
 * 📄 **[sst2_audit_mvp.py](file:///c:/Users/msbor/OneDrive/Desktop/FYDP%20MVP/sst2_audit_mvp.py)**: The main Python pipeline containing download, training, cleanlab analysis, and CSV generation logic.
 * 📊 **[SST2_Top_100_Suspects.csv](file:///c:/Users/msbor/OneDrive/Desktop/FYDP%20MVP/SST2_Top_100_Suspects.csv)**: Output list of the top 100 suspected label errors for manual review. Includes review fields:
   * `Team_Corrected_Label` (for consensus label)
@@ -77,7 +79,7 @@ This will output diagnostic logs to the terminal and overwrite or create the tar
 
 ---
 
-## 🔍 Examples of Identified Label Issues
+## 🔍 Examples of Identified Label Issues (Human-Annotated SST-2)
 
 Below are examples of suspected labels highlighted by the tool:
 * *"even at its worst , it 's not half-bad ."*
